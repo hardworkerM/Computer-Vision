@@ -29,6 +29,6 @@
 ### Выделение маски
 <img src="https://github.com/hardworkerM/Computer-Vision/blob/main/images/маска.png" alt="Пример картинки" width="300"/>
 
-### Наложение маски на начальное изображение маски
+### Наложение маски на начальное изображение
 <img src="https://github.com/hardworkerM/Computer-Vision/blob/main/images/детекция.png" alt="Пример картинки" width="300"/>
 
