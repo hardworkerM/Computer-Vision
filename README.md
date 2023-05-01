@@ -15,7 +15,7 @@
 - Выделяем контуры 
 - Рисуем маску в соответствии с контурами
 
-Описано в [main.ipynb](https://github.com/hardworkerM/Computer-Vision/blob/main/main.ipynb)
+Описано в [main_project.ipynb](https://github.com/hardworkerM/Computer-Vision/blob/main/main_project.ipynb)
 
 ## Пайплайн в картинках
 
