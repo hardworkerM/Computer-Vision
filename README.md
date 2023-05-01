@@ -1,5 +1,8 @@
 # Computer-Vision
-Computer Vision task -  detecting dust molecules in images
+Выделение молекул пыли на картинке. Задача выделения контуров.
+
+Команда: [Anton](https://github.com/oodlbee) |  [Grisha](https://github.com/hardworkerM)  |  Unknown
+
 
 <img src="https://github.com/hardworkerM/Computer-Vision/blob/main/images/0-5_1_5.png" alt="Пример картинки" width="300"/>
 
